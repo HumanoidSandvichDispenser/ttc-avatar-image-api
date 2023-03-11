@@ -2,7 +2,7 @@
 
 * Something about third party things
 
-This is an avatar image generator microservice for [[aprzn123/TheThirdCan][https://github.com/aprzn123/TheThirdCan]]
+This is an avatar image generator microservice for [[https://github.com/aprzn123/TheThirdCan][aprzn123/TheThirdCan]]
 
 Test request:
 
