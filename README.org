@@ -1,0 +1,21 @@
+#+TITLE: TTC Avatar Image API
+
+* Something about third party things
+
+This is an avatar image generator microservice for [[aprzn123/TheThirdCan][https://github.com/aprzn123/TheThirdCan]]
+
+Test request:
+
+#+begin_example
+curl -X POST -H "Content-Type: application/json" http://localhost:5000/convert -d @test.json
+#+end_example
+
+* Comparison
+
+EricDotCom's avatar converter
+
+[[https://twocansandstring.com/uploads/drawn/40742.png]]
+
+This converter
+
+[[https://twocansandstring.com/uploads/drawn/40747.png]]

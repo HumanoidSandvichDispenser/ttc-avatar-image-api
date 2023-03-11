@@ -1,0 +1,8 @@
+# vim: set tabstop=2
+version: '2.2'
+
+services:
+  ttc-avatar-image-api:
+    build: .
+    ports:
+      - 8000:8000
