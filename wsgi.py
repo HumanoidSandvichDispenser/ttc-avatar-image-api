@@ -28,7 +28,7 @@ def convert():
     img = imageprocessor.process_image(img, json_request)
     hex_str = imageprocessor.image_to_hex(img)
 
-    # this json response can then be directly used by the addon to upload avatar
+    # this json response can then be directly used to request avatar upload
     return {
         "data": hex_str,
     }
